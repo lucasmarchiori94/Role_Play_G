@@ -1,4 +1,6 @@
 # Role Playing Game Dados
+<p>Por: Lucas Marchiori dos Santos</p>
+
 <p>Um jogo de dados para mesa de RPG</p>
 este projeto consiste em um game que possui todos os dados já criados para mesa de RPG, e tem como objetivo trazer mais agilidade para as partidas.
 
